@@ -15,14 +15,11 @@ node_modules/
 /dist-ssr/
 
 # Local env files
-.env
-.env.*
 
 # Test coverage
 coverage/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea/
 .DS_Store
@@ -38,3 +35,4 @@ Desktop.ini
 
 # Misc
 *.local
+config.bat
